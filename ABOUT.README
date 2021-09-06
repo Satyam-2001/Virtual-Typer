@@ -1,0 +1,4 @@
+Application : Virtual Typer
+Developed By : Satyam Lohiya
+Working : Any input user give this to application it will press the keyboard keys after Delay[in sec] in that sequence and type it for user in gap of Interval[in sec/10].
+Usage : On some platform copy/paste command not works ,you can use it there. 
