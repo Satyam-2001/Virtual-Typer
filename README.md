@@ -1,16 +1,20 @@
 # Virtual Typer
 
+On some platform copy/paste command not works ,but this application do it for you.<br />
+Since,it use to type the text not to paste.  
+
 **Working** <br />
-Any input user give to this application it will press the keyboard keys after Delay[in sec] in that sequence and type it for user in gap of Interval[in sec/10]. <br />
-**Usage** <br />
-On some platform copy/paste command not works ,you can use it there.
+Any input user give to this application it will press the keyboard keys in that sequence and type it for user. <br />
+
+**Download Link** <br />
+&nbsp; https://github.com/Satyam-2001/Virtual-Typer/releases/download/v0.1/Virtual.Typer.zip
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/88069082/132242221-366deee5-c49e-4ff6-b220-6d12d659f00f.png"/>
 </p>
 
 
-How to use??
+**How to use??**
 
 * Write appropriate delay (in sec). 
 * After delay seconds keyboard start typing. 
