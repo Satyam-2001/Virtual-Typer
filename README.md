@@ -6,8 +6,6 @@ Since,it use to type the text not to paste.
 **Working** <br />
 Any input user give to this application it will press the keyboard keys in that sequence and type it for user. <br />
 
-**Download Link** <br />
-&nbsp; https://github.com/Satyam-2001/Virtual-Typer/releases/download/v0.1/Virtual.Typer.zip
 <br />
 <br />
 <p align="center">
@@ -24,3 +22,11 @@ Any input user give to this application it will press the keyboard keys in that 
 * Fill the interval (in sec/10) ,which make the process in sleep for interval/10 seconds before the next pressing of the keyboard key.[Recommended 0 sec]
 * Put the Input in input text section.
 * Press on Type Button & move/point the cursor where you want to type.
+
+<br />
+
+<p align="center">
+  <a href="https://github.com/Satyam-2001/Virtual-Typer/releases/download/v0.1/Virtual.Typer.zip">
+    <img src="https://www.pngarts.com/files/2/Download-Button-PNG-Image-Background.png" height="50px"/>
+  </a>
+</p>
