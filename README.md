@@ -8,14 +8,16 @@ Any input user give to this application it will press the keyboard keys in that 
 
 **Download Link** <br />
 &nbsp; https://github.com/Satyam-2001/Virtual-Typer/releases/download/v0.1/Virtual.Typer.zip
-
+<br />
+<br />
 <p align="center">
   <img src="https://user-images.githubusercontent.com/88069082/132242221-366deee5-c49e-4ff6-b220-6d12d659f00f.png"/>
 </p>
-
+<br />
+<br />
 
 **How to use??**
-
+<br />
 * Write appropriate delay (in sec). 
 * After delay seconds keyboard start typing. 
 * Make sure you will point the cursor to the correct position while delay is in process.
