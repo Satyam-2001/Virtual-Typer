@@ -27,6 +27,6 @@ Any input user give to this application it will press the keyboard keys in that 
 
 <p align="center">
   <a href="https://github.com/Satyam-2001/Virtual-Typer/releases/download/v0.1/Virtual.Typer.zip">
-    <img src="https://www.pngarts.com/files/2/Download-Button-PNG-Image-Background.png" height="50px"/>
+    <img src="https://camo.githubusercontent.com/47be6c2bc83f48a12315a89a6f5fd3390108feef5c388a11454592d9335cbf80/68747470733a2f2f7777772e706e67617274732e636f6d2f66696c65732f322f446f776e6c6f61642d427574746f6e2d504e472d496d6167652d4261636b67726f756e642e706e67" height="50px"/>
   </a>
 </p>
